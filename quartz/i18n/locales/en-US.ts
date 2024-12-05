@@ -47,7 +47,7 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
+      title: "Search (CMD+K)",
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
@@ -64,7 +64,7 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      notFound: "You've either stumbled onto a note I haven't published, or found a broken link.",
       home: "Return to Homepage",
     },
     folderContent: {
