@@ -8,3 +8,7 @@ While chunking has been developed as a skill in various mnemonic systems, it see
 [[Working memory is a performance-limiting factor]] in almost every(?) domain, so developing chunks and thereby pushing low-level details out of working memory is an important improvement avenue; unfortunately I don't know any tricks to improve that.
 
 Still pondering: is chunking the only or even primary way skills/knowledge move from conscious to subconscious?
+
+-----
+## Further Reading
+[How Big is a Chunk](http://augmentingcognition.com/assets/Simon1974.pdf), Herbert A. Simon
