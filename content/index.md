@@ -2,7 +2,7 @@
 title: Welcome
 publish: true
 ---
-Hi, I'm Chase Bussey. I'm a software engineer fascinated by how systems get built and how to keep them running.
+Hi, I'm Chase Bussey. I'm a software engineer fascinated by how systems get built and the sociotechnical factors that influence their design and behavior.
 
 This space is an ongoing experiment in note-taking and knowledge-sharing. It's part of my effort to [learn in
 public](https://www.swyx.io/learn-in-public) and [work with the garage door up](https://notes.andymatuschak.org/zCMhncA1iSE74MKKYQS5PBZ), which
