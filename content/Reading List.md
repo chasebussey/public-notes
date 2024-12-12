@@ -5,6 +5,7 @@ publish: true
 # Papers
 - The Extended Mind, Clark and Chalmers. [HTML](https://web-archive.southampton.ac.uk/cogprints.org/320/1/extended.html)
 - Programming As Theory Building, Peter Naur. [PDF](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
+- Programming with Union, Intersection, and Negation Types, Giuseppe Castagna. [PDF](https://www.irif.fr/~gc/papers/set-theoretic-types-2022.pdf)
 
 # Books
 - _Benjamin Franklin: An American Life_, Walter Isaacson.
