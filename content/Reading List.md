@@ -9,6 +9,7 @@ publish: true
 
 # Books
 - _[[Learning Systems Thinking]]_, Diana Montalion.
+-_[[How to Take Smart Notes]]_, Sönke Ahrens
 - _Benjamin Franklin: An American Life_, Walter Isaacson.
 - _Gödel, Escher, Bach_, Douglas Hofstadter
 - _Designing Data-Intensive Applications_, Martin Kleppman
