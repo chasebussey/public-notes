@@ -3,7 +3,7 @@ publish: true
 ---
 
 
-In [[How to Take Smart Notes]], Ahrens provides an 8-step process for using smart notes (or the Zettelkasten method) to produce a paper (or other piece of writing, the book just seems to be geared towards academia).
+In [[How to Take Smart Notes]], Ahrens provides an 8-step process for using smart notes (or the Zettelkasten method) to produce a paper (or other piece of writing, the book is just geared towards academia).
 
 4 kinds of notes are involved:
 1. Fleeting notes: the lowest-commitment artifact, these should cause no distraction and serve just to capture the thoughts in your head. Importantly, they should be captured into a designated inbox and processed later into a permanent note (see [[Systems for thinking must be comprehensive]])
