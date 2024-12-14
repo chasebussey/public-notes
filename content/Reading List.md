@@ -8,6 +8,7 @@ publish: true
 - Programming with Union, Intersection, and Negation Types, Giuseppe Castagna. [PDF](https://www.irif.fr/~gc/papers/set-theoretic-types-2022.pdf)
 
 # Books
+- _[[Learning Systems Thinking]]_, Diana Montalion.
 - _Benjamin Franklin: An American Life_, Walter Isaacson.
 - _Gödel, Escher, Bach_, Douglas Hofstadter
 - _Designing Data-Intensive Applications_, Martin Kleppman
