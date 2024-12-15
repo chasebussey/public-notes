@@ -14,6 +14,6 @@ start putting up some indexes or maps of content. For now, though, navigation wi
 If you'd like to get in touch, reach out by [email](mailto:chase@chasebussey.com), on [Bluesky](https://bsky.app/profile/chasebussey.com), or check out my [GitHub profile](https://github.com/chasebussey).
 
 ## Looking for somewhere to start?
-[[Everything is chunking]] is currently my most densely-connected note.
+[[How to Take Smart Notes]] is currently my most densely-connected note.
 
 My [[Reading List]] is published here as well. Like most of the site, it's a little empty now so if you have any suggestions feel free to reach out.
