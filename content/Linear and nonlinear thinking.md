@@ -11,4 +11,4 @@ It's important to note that, despite the negative connotation "reductionism" com
 
 --------
 # References
-Montalion, Diana. *Learning Systems Thinking*. 
+Montalion, Diana. *[[Learning Systems Thinking]]*. 

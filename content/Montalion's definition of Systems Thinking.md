@@ -10,4 +10,4 @@ Note that this is a recursive definition--systems thinking is itself a system of
 
 -------
 # References
-Montalion, Diana. *Learning Systems Thinking*
+Montalion, Diana. *[[Learning Systems Thinking]]*
