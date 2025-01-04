@@ -13,7 +13,6 @@ publish: true
 - _Benjamin Franklin: An American Life_, Walter Isaacson.
 - _Gödel, Escher, Bach_, Douglas Hofstadter
 - _Designing Data-Intensive Applications_, Martin Kleppman
-- _Learning Systems Thinking_, Diana Montalion
 
 # Articles
 - [2023 DORA State of DevOps Report](https://dora.dev/research/2023/dora-report/2023-dora-accelerate-state-of-devops-report.pdf)
